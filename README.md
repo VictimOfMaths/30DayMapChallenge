@@ -9,3 +9,6 @@ R stats code and plots relating to the #30DayMapChallenge, organised by [Topi Tj
 **Day 3 - Polygons**<br>
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day3_Polygons.R)
 ![Premier League Voronoi](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/PremierLeagueVoronoi.png)<br><br>
+**Day 4 - Hexagons**<br>
+(https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day4_Hexagons.R)
+![Constituency Ternary Hexagons](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/ConstHexTern2019.png)<br><br>
