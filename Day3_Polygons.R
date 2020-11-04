@@ -73,9 +73,9 @@ showtext_auto()
 
 tiff("Outputs/PremierLeagueVoronoi.tiff", units="in", width=8, height=10, res=500)
 ggplot()+
-  geom_sf(data=outline, aes(geometry=geometry), fill="White")+
+  geom_sf(data=outline, aes(geometry=geometry), fill="White", colour=NA)+
   geom_sf(data=voronoi, aes(geometry=geometry, fill=rownames(voronoi)), colour="Black",
-          show.legend=FALSE)+
+          size=0.2, show.legend=FALSE)+
   geom_sf(data=data, aes(geometry=geometry), shape=21, colour="#38003c", fill="#00ff85")+
   scale_fill_manual(values=c("#003399", "white", "#122F67", "#670E36", "#003090",
                              "white", "#EF0107", "white", "#0057B8", "#1B458F",
