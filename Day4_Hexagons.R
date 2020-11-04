@@ -61,6 +61,10 @@ ggplot()+
   geom_curve(aes(x=3.2, y=53, xend=1.65, yend=52.78), 
              curvature=-0.18, 
              arrow=arrow(length=unit(0.2, "cm"), type="closed"))+
+annotate("text", x=0.4, y=50.3, label="Brighton Pavillion (Green) was the only English\nconstituency not to go to one of the 3 main parties")+
+  geom_curve(aes(x=0, y=50.5, xend=-0.3, yend=50.78), 
+             curvature=-0.18, 
+             arrow=arrow(length=unit(0.2, "cm"), type="closed"))+
   labs(title="Vote share across England for the three main parties in the 2019 General Election",
        subtitle="Data from House of Commons Library | Plot by @VictimOfMaths")
 dev.off()
