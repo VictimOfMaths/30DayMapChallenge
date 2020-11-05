@@ -12,3 +12,6 @@ R stats code and plots relating to the #30DayMapChallenge, organised by [Topi Tj
 **Day 4 - Hexagons**<br>
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day4_Hexagons.R)
 ![Constituency Ternary Hexagons](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/ConstHexTern2019.png)<br><br>
+**Day 5 - Blue**<br>
+(https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day5_Blue.R)
+![Alcohol-Specific deaths](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/AlcSpecDeathsGB.png)<br><br>
