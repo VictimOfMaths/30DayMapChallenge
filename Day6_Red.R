@@ -63,7 +63,7 @@ ggplot()+
         plot.subtitle=element_text(colour="#7f0000"),
         plot.caption=element_text(colour="#7f0000"))+
   guides(fill = guide_colourbar(ticks = FALSE))+
-  labs(title="The fall of another pandemic",
+  labs(title="The decline of another pandemic",
        subtitle="Changes in annual deaths from HIV/AIDS 2009-2019",
        caption="Data from Global Burden of Disease Study | Plot by @VictimOfMaths")
 dev.off()
