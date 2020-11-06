@@ -18,3 +18,9 @@ R stats code and plots relating to the #30DayMapChallenge, organised by [Topi Tj
 **Day 6 - Red**<br>
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day6_Red.R)
 ![HIV Deaths in Africa](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/HIVDeaths.png)<br><br>
+**Day 7 - Green**<br>
+Created using an Ordnance Survey 1:25,000 map, 50cm resolution LiDAR data and Aerialod
+![Green Park Map](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/GreenPark.png)<br><br>
+**Day 8 - Yellow**<br>
+(https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day8_Yellow.R)
+![National Grid Map(https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/NationalGridMap.png)<br><br>
