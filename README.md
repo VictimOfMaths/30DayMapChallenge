@@ -15,3 +15,6 @@ R stats code and plots relating to the #30DayMapChallenge, organised by [Topi Tj
 **Day 5 - Blue**<br>
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day5_Blue.R)
 ![Alcohol-Specific deaths](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/AlcSpecDeathsGB.png)<br><br>
+**Day 6 - Red**<br>
+(https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day6_Red.R)
+![HIV Deaths in Africa](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/HIVDeaths.png)<br><br>
