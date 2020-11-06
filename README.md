@@ -23,4 +23,4 @@ Created using an Ordnance Survey 1:25,000 map, 50cm resolution LiDAR data and Ae
 ![Green Park Map](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/GreenPark.png)<br><br>
 **Day 8 - Yellow**<br>
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day8_Yellow.R)
-![National Grid Map(https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/NationalGridMap.png)<br><br>
+![National Grid Map](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/NationalGridMap.png)<br><br>
