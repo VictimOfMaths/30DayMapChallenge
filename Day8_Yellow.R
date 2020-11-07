@@ -26,12 +26,12 @@ ggplot()+
   theme(plot.background=element_rect(fill="black"), 
         panel.background=element_rect(fill="black"),
         plot.title=element_text(face="bold", size=280, family="Metal Mania",
-                                colour="Yellow", hjust=0.1),
+                                colour="Yellow", hjust=0.1, vjust=-0.3),
         plot.subtitle=element_text(family="Metal Mania", colour="Yellow",
-                                   size=80, hjust=0.033),
+                                   size=80, hjust=0.033, vjust=-0.5),
         plot.caption=element_text(family="Metal Mania", colour="Yellow",
-        size=60, hjust=0.93))+
-  labs(title="Our friends electric",
+                                  size=60, hjust=0.93))+
+  labs(title="Transfer of Power",
        subtitle="Every overhead power line in England & Wales",
        caption="Data © National Grid UK Plot by @VictimOfMaths")
 dev.off()
