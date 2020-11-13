@@ -35,3 +35,21 @@ Created using an Ordnance Survey 1:25,000 map, 50cm resolution LiDAR data and Ae
 ![My Map](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/MyMap.jpg)<br><br>
 **Day 13 - Raster**<br>
 ![Ardnamurchan Ring Complex](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/ArdnamurchanFinal.png)<br><br>
+**Day 14 - Climate change**<br>
+![English & Welsh Highlands](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/English%20Highlands.png)<br><br>
+**Day 15 - Connections**<br>
+**Day 16 - Island(s)**<br>
+**Day 17 - Historical map**<br>
+**Day 18 - Landuse**<br>
+**Day 19 - NULL**<br>
+**Day 20 - Population**<br>
+**Day 21 - Water**<br>
+**Day 22 - Movement**<br>
+**Day 23 - Boundaries**<br>
+**Day 24 - Elevation**<br>
+**Day 25 - COVID-19**<br>
+**Day 26 - Map with a new tool**<br>
+**Day 27 - Big or small data**<br>
+**Day 28 - Non-geographic map**<br>
+**Day 29 - Globe**<br>
+**Day 30 - A map**<br>
