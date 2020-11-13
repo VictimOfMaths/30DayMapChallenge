@@ -27,3 +27,11 @@ Created using an Ordnance Survey 1:25,000 map, 50cm resolution LiDAR data and Ae
 **Day 9 - Monochrome**<br>
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day9_Monochrome.R)
 ![Sheffield Contour Map](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/SheffieldContours.png)<br><br>
+**Day 10 - Grid**<br>
+![Ladybower 3D](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Ladybower2.png)<br><br>
+**Day 11 - 3D**<br>
+![Barts Islay Map 3D](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/image20.png)<br><br>
+**Day 12 - Map not made with GIS software**<br>
+![My Map](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/MyMap.jpg)<br><br>
+**Day 13 - Raster**<br>
+![Ardnamurchan Ring Complex](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/ArdnamurchanFinal.png)<br><br>
