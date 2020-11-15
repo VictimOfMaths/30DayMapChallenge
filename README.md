@@ -38,6 +38,8 @@ Created using an Ordnance Survey 1:25,000 map, 50cm resolution LiDAR data and Ae
 **Day 14 - Climate change**<br>
 ![English & Welsh Highlands](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/English%20Highlands.png)<br><br>
 **Day 15 - Connections**<br>
+(https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day15_Connections.R)<br>
+![Sheffield Rights of Way](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/SheffieldROW.png)<br><br>
 **Day 16 - Island(s)**<br>
 **Day 17 - Historical map**<br>
 **Day 18 - Landuse**<br>
