@@ -28,14 +28,19 @@ Created using an Ordnance Survey 1:25,000 map, 50cm resolution LiDAR data and Ae
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day9_Monochrome.R)
 ![Sheffield Contour Map](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/SheffieldContours.png)<br><br>
 **Day 10 - Grid**<br>
+Created by merging Ordnance Survey map and elevation data in GIMP and visualising in Aerialod
 ![Ladybower 3D](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Ladybower2.png)<br><br>
 **Day 11 - 3D**<br>
+Created by combining Ordnance Survey elevation data with a 1901 Bartholomew's map from the National Library of Scotland
 ![Barts Islay Map 3D](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/image20.png)<br><br>
 **Day 12 - Map not made with GIS software**<br>
+Drawn by my own fair hand (in about 1996)
 ![My Map](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/MyMap.jpg)<br><br>
 **Day 13 - Raster**<br>
+Elevation data from Ordnance Survey visualised in Aerialod
 ![Ardnamurchan Ring Complex](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/ArdnamurchanFinal.png)<br><br>
 **Day 14 - Climate change**<br>
+Elevation data from Ordnance Survey visualised in Aerialod
 ![English & Welsh Highlands](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/English%20Highlands.png)<br><br>
 **Day 15 - Connections**<br>
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day15_Connections.R)<br>
