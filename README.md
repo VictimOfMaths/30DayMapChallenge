@@ -46,6 +46,8 @@ Elevation data from Ordnance Survey visualised in Aerialod
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day15_Connections.R)<br>
 ![Sheffield Rights of Way](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/SheffieldROW.png)<br><br>
 **Day 16 - Island(s)**<br>
+Elevation data from Kartverket visualise in Aerialod
+![Lofoten 3D](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Lofoten.png)<br><br>
 **Day 17 - Historical map**<br>
 **Day 18 - Landuse**<br>
 **Day 19 - NULL**<br>
