@@ -50,7 +50,7 @@ Elevation data from Kartverket visualise in Aerialod
 ![Lofoten 3D](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Lofoten.png)<br><br>
 **Day 17 - Historical map**<br>
 Created by combining Ordnance Survey elevation data with a 1904 Bartholomew's map from the National Library of Scotland
-![Bart's Sheffield Map 3D](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Sheffield Final.png)<br><br>
+![Bart's Sheffield Map 3D](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Sheffield%20Final.png)<br><br>
 **Day 18 - Landuse**<br>
 **Day 19 - NULL**<br>
 **Day 20 - Population**<br>
