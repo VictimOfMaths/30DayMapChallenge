@@ -55,6 +55,8 @@ Created by combining Ordnance Survey elevation data with a 1904 Bartholomew's ma
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day18_LandUse.R)
 ![Norfolk Fields](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/NorfolkFields.png)<br><br>
 **Day 19 - NULL**<br>
+(https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day19_NULL.R)
+![Alcohol Voids](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/AlcoholVoids.png)<br><br>
 **Day 20 - Population**<br>
 **Day 21 - Water**<br>
 **Day 22 - Movement**<br>
