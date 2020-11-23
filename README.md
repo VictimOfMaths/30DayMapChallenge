@@ -62,9 +62,10 @@ Population data from [GHSL](https://ghsl.jrc.ec.europa.eu/ghs_pop2019.php) visua
 ![Ireland Population](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/IrelandPop.png)<br><br>
 **Day 21 - Water**<br>
 Elevation data from [DEFRA](https://environment.data.gov.uk/DefraDataDownload/?Mode=survey) visualised in Aerialod
+![Sheffield Flooded](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Sheffield%20Flooded%202.png)<br><br>
 **Day 22 - Movement**<br>
 (https://t.co/fY9Wykn0Kl?amp=1)
-![COVID Rates Hexmap]()
+![COVID Rates Hexmap](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/HexAnimUKrate.gif)<br><br>
 **Day 23 - Boundaries**<br>
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day23_Boundaries.R)
 ![Sheffield Boundaries](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/SheffieldBoundaries.png)<br><br>
