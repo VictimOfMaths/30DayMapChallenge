@@ -50,7 +50,7 @@ Elevation data from Kartverket visualise in Aerialod
 ![Lofoten 3D](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Lofoten.png)<br><br>
 **Day 17 - Historical map**<br>
 Created by combining Ordnance Survey elevation data with a 1904 Bartholomew's map from the National Library of Scotland
-![Bart's Sheffield Map 3D](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Sheffield%20Final.png)<br><br>
+![Bart's Sheffield Map 3D](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Sheffield%20Final2.png)<br><br>
 **Day 18 - Landuse**<br>
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day18_LandUse.R)
 ![Norfolk Fields](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/NorfolkFields.png)<br><br>
@@ -58,9 +58,16 @@ Created by combining Ordnance Survey elevation data with a 1904 Bartholomew's ma
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day19_NULL.R)
 ![Alcohol Voids](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/AlcoholVoids.png)<br><br>
 **Day 20 - Population**<br>
+Population data from [GHSL](https://ghsl.jrc.ec.europa.eu/ghs_pop2019.php) visualised in Aerialod
+![Ireland Population](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/IrelandPop.png)<br><br>
 **Day 21 - Water**<br>
+Elevation data from [DEFRA](https://environment.data.gov.uk/DefraDataDownload/?Mode=survey) visualised in Aerialod
 **Day 22 - Movement**<br>
+(https://t.co/fY9Wykn0Kl?amp=1)
+![COVID Rates Hexmap]()
 **Day 23 - Boundaries**<br>
+(https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day23_Boundaries.R)
+![Sheffield Boundaries](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/SheffieldBoundaries.png)<br><br>
 **Day 24 - Elevation**<br>
 **Day 25 - COVID-19**<br>
 **Day 26 - Map with a new tool**<br>
