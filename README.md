@@ -83,7 +83,7 @@ A stupid bike ride around Stannington in Sheffield, visualised using [VeloViewer
 ![European Bison](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/EuropeanBison.png)<br><br>
 **Day 28 - Non-geographic map**<br>
 (https://github.com/VictimOfMaths/DeathsOfDespair/blob/master/USStateDoDPlots.R)
-![https://github.com/VictimOfMaths/DeathsOfDespair/blob/master/DoDUSStates.png]()<br><br>
+![US State Deaths of Despair](https://github.com/VictimOfMaths/DeathsOfDespair/blob/master/DoDUSStates.png)<br><br>
 **Day 29 - Globe**<br>
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day29_Globe.R)
 ![Global Britain](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/GlobalBritain.png)<br><br>
