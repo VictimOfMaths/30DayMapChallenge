@@ -49,7 +49,7 @@ Elevation data from Ordnance Survey visualised in Aerialod
 Elevation data from Kartverket visualise in Aerialod
 ![Lofoten 3D](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Lofoten.png)<br><br>
 **Day 17 - Historical map**<br>
-Created by combining Ordnance Survey elevation data with a 1904 Bartholomew's map from the National Library of Scotland
+Created by combining Ordnance Survey elevation data with a 1901 Bartholomew's map from the National Library of Scotland
 ![Bart's Sheffield Map 3D](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Sheffield%20Final2.png)<br><br>
 **Day 18 - Landuse**<br>
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day18_LandUse.R)
@@ -70,15 +70,23 @@ Elevation data from [DEFRA](https://environment.data.gov.uk/DefraDataDownload/?M
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day23_Boundaries.R)
 ![Sheffield Boundaries](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/SheffieldBoundaries.png)<br><br>
 **Day 24 - Elevation**<br>
+Created by combining Ordnance Survey elevation data with a 1912 Bartholomew's geological map of Scotland
+![Scotland Geological](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/ScotlandGeological.png)<br><br>
 **Day 25 - COVID-19**<br>
+COVID-19 mortality data from ONS and NRS visualised in Aerialod
+![COVID MSOA UK](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/COVIDMSOAUKv2.png)<br><br>
 **Day 26 - Map with a new tool**<br>
+A stupid bike ride around Stannington in Sheffield, visualised using [VeloViewer](https://veloviewer.com/).
+![Contour Painting](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/ContourPainting.jpg)<br><br>
 **Day 27 - Big or small data**<br>
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day27_BigOrSmallData.R)
-![]()<br><br>
+![European Bison](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/EuropeanBison.png)<br><br>
 **Day 28 - Non-geographic map**<br>
+(https://github.com/VictimOfMaths/DeathsOfDespair/blob/master/USStateDoDPlots.R)
+![https://github.com/VictimOfMaths/DeathsOfDespair/blob/master/DoDUSStates.png]()<br><br>
 **Day 29 - Globe**<br>
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day29_Globe.R)
-![Global Britain]()<br><br>
+![Global Britain](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/GlobalBritain.png)<br><br>
 **Day 30 - A map**<br>
 (https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day30_Map.R)
 ![United States of Kitteh](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/UnitedStatesOfKitteh.png)
