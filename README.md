@@ -73,6 +73,12 @@ Elevation data from [DEFRA](https://environment.data.gov.uk/DefraDataDownload/?M
 **Day 25 - COVID-19**<br>
 **Day 26 - Map with a new tool**<br>
 **Day 27 - Big or small data**<br>
+(https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day27_BigOrSmallData.R)
+![]()<br><br>
 **Day 28 - Non-geographic map**<br>
 **Day 29 - Globe**<br>
+(https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day29_Globe.R)
+![Global Britain]()<br><br>
 **Day 30 - A map**<br>
+(https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/Day30_Map.R)
+![United States of Kitteh](https://github.com/VictimOfMaths/30DayMapChallenge/blob/main/UnitedStatesOfKitteh.png)
