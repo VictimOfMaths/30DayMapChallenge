@@ -52,6 +52,7 @@ admmax <- max(sparkdata$admroll_avg, na.rm=TRUE)
 
 #Convert COVID data to lat/long values
 sparkdata <- sparkdata %>% 
+  filter(days>49) %>% 
   mutate(plot.x=days*(xrange/(40*daymax))+long, 
          plot.y=admroll_avg*(yrange/(10*admmax))+lat) %>% 
   group_by(code) %>% 
@@ -72,7 +73,7 @@ showtext_auto()
 tiff("Outputs/COVIDSparklinesAdm.tiff", units="in", width=7, height=10, res=500)
 ggplot()+
   geom_sf(data=outline, aes(geometry=geometry), fill="grey90", colour="grey80")+
-  geom_line(data=sparkdata, aes(x=plot.x, y=plot.y, colour=curr.adm, group=code), show.legend=FALSE)+
+  geom_line(data=sparkdata, aes(x=plot.x, y=plot.y, colour=curr.adm, group=code), show.legend=FALSE, size=0.4)+
   scale_colour_paletteer_c("pals::kovesi.linear_ternary_red_0_50_c52")+
   theme_void()+
   theme(plot.title=element_text(margin=margin(t=0, b=-70),face="bold", size=rel(11),
